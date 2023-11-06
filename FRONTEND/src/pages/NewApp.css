@@ -1,0 +1,31 @@
+.abc:hover{
+    color: rgb(165, 171, 226);
+}
+.xyz:hover{
+    color: rgb(93, 196, 93);
+    background-color: aliceblue;
+}
+.footer {
+    color: aliceblue;
+    text-align: center;
+    padding-left: 300pt;
+  }
+  .cat:hover{
+    color: blue;
+  }
+  /* Add styling to navigation links */
+.nav-link {
+  color: #333; /* Change this to your desired text color */
+  transition: color 0.3s ease; /* Add a slow hover effect */
+  text-decoration: none; /* Remove the underline */
+}
+
+.nav-link:hover {
+  color: #007bff; /* Change this to the color you want on hover */
+}
+
+/* Make the "GrowEasy" logo smaller */
+/* Assuming you have a class or ID for the logo */
+.logo {
+  font-size: 24px; /* Adjust the size as needed */
+}
